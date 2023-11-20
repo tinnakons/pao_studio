@@ -8,6 +8,8 @@ void main() {
   ));
 }
 
+//pao 
+
 class SplashLoad extends StatefulWidget {
   @override
   _SplashLoadState createState() => _SplashLoadState();
