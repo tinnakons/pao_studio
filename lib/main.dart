@@ -8,7 +8,7 @@ void main() {
   ));
 }
 
-//pao 
+//pao // burapol.uss
 
 class SplashLoad extends StatefulWidget {
   @override
